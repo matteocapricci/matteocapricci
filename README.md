@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif" width="100"/>
 </div>
 
-📖:brain: Italian student enrolled in a Computer Systems Engineering Master’s degree with a
+📖🧠: Italian student enrolled in a Computer Systems Engineering Master’s degree with a
 passion for Cyber-security :computer::earth_americas:
 
 :mailbox:How to reach me: 
